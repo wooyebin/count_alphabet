@@ -1,4 +1,4 @@
-// 2019112801 woo yebin
+// 웹사이트에서 스트링 가져와서 각각의 알파벳 얼마인지 세기 (대소문자 구분없음)
 
 //import java.io.*;
 import java.util.Scanner;
